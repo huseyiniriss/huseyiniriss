@@ -7,9 +7,15 @@ including proficiency in several programming languages, experience with various
 frameworks and tools, and a solid grasp of software development methodologies.
 
 ❤️ Languages: Node.js, JavaScript, PHP, TypeScrip
+
 💫 Frontend: React, React Native, Flutter, Vue.js
+
 🗃️ Database: SQL, NoSQL (MongoDB, Firebase)
+
 🛠️ Software Architecture & Design
+
 📝 Web Services Development
+
 📱 Mobile App Development
+
 🌍 Web Development
