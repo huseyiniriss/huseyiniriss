@@ -6,7 +6,7 @@ development. This journey has equipped me with a versatile skill set and deep kn
 including proficiency in several programming languages, experience with various
 frameworks and tools, and a solid grasp of software development methodologies.
 
-❤️ Languages: Node.js, JavaScript, PHP, TypeScrip
+❤️ Languages: Node.js, JavaScript, PHP, TypeScript
 
 💫 Frontend: React, React Native, Flutter, Vue.js
 
